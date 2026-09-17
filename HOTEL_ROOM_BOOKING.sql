@@ -1,3 +1,5 @@
+-- Hotel Room Booking Analysis Using MySQL
+
 create database hotel_analysis;
 use hotel_analysis;
 
